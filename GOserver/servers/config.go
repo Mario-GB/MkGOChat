@@ -1,0 +1,7 @@
+package goserver
+
+var (
+	CONFIG_SERVER_HOST = "192.168.0.107"
+	CONFIG_SERVER_PORT = "9988"
+	CONFIG_SERVER_TYPE = "tcp"
+)
